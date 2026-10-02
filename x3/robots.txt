@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://saipreethi.github.io/sitemap.xml
