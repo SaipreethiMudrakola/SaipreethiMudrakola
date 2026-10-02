@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saipreethi.github.io/sitemap.xml
+Sitemap: https://saipreethimudrakola.github.io/SaipreethiMudrakola/sitemap.xml
