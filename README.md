@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Saipreethi Mudrakola — Data, Analytics & Business Decisions" width="100%">
+<img src="assets/banner.svg" alt="Saipreethi Mudrakola — Senior Business Analyst" width="100%">
 
 <br>
 
@@ -12,19 +12,37 @@
 
 ## About
 
-I work where data meets decisions. My focus is turning raw information into clear, actionable insight — and building projects that help businesses move with confidence rather than guesswork.
+Senior Business Analyst with 4+ years across banking and healthcare, bridging business and technology. I turn complex needs into clear requirements, and clear requirements into solutions that ship — across Agile Scrum, Waterfall and SDLC environments.
 
-Clean analysis. Honest numbers. Decisions that hold up.
+My work sits at the intersection of **business process analysis**, **data-driven decision-making** and **enterprise technology**: requirements, reporting, UAT and the stakeholders who hold it all together.
+
+<img src="assets/stats.svg" width="100%" alt="4+ years, 100+ epics prioritised, 10+ Power BI dashboards, 1M+ records analysed, 95%+ UAT completion">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Focus
+## Experience
+
+| | Role | Focus |
+|---|---|---|
+| **TD Bank**<br><sub>Feb 2026 – Present</sub> | Senior Business Analyst | Banking transformation across payments, deposits, lending and digital banking; requirements, backlog, UAT and Power BI reporting |
+| **Aveanna Healthcare**<br><sub>Feb 2025 – Dec 2025</sub> | Business Analyst | Healthcare workflows, cloud migration, data governance and KPI reporting for 1M+ records |
+| **ANZ**<br><sub>Jul 2022 – Dec 2023</sub> | Data & Business Analyst | SQL analysis of trading, risk and P&L data; Power BI dashboards; Excel and VBA automation |
+| **Wells Fargo**<br><sub>Apr 2021 – Jun 2022</sub> | Business Analyst | Lending, payments and retail banking requirements; regulatory reporting; process optimisation |
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Expertise
 
 | | |
 |---|---|
-| **Data Analytics** | Cleaning, modelling and making sense of messy real-world data |
-| **Business Strategy** | Framing the question before chasing the answer |
-| **Decision Systems** | Dashboards, reports and tools people actually use |
+| **Business Analysis** | Requirements Elicitation · BRD / FRD · User Stories · Acceptance Criteria · Use Cases · RTM · Gap Analysis · Process Mapping · BPMN · BPR |
+| **Agile & Delivery** | Agile Scrum · Product Owner Support · Backlog Management · Sprint Planning · Release Planning · SDLC · Waterfall |
+| **Testing & UAT** | UAT Planning & Coordination · Test Case Review · Defect Management · Production Validation · Business Sign-off |
+| **Transformation** | Digital Transformation · Change Management · Risk Management · Root Cause Analysis · Strategic Planning |
+| **Data & Reporting** | SQL · Data Analysis · KPI Reporting · Data Governance · Data Quality · Data Migration · Data Modeling · ETL |
+| **BI & Analytics** | Power BI · Tableau · Advanced Excel · Power Query · VBA · Python · R |
+| **Tools** | JIRA · Azure DevOps · Confluence · MS Project · Visio · Lucidchart · Balsamiq · SharePoint |
+| **Platforms & Cloud** | AWS · Azure · GCP · Snowflake · BigQuery · Redshift · Salesforce · SAP · REST / SOAP APIs · Postman |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -38,19 +56,15 @@ Clean analysis. Honest numbers. Decisions that hold up.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Toolkit
+## Education
 
-![Excel](https://img.shields.io/badge/Excel-1f2937?style=flat-square&logo=microsoftexcel&logoColor=c9a468)
-![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=c9a468)
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=c9a468)
-![Power BI](https://img.shields.io/badge/Power_BI-1f2937?style=flat-square&logo=powerbi&logoColor=c9a468)
-![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=c9a468)
+**Master's in Information Systems Management** — Wilmington University, USA &nbsp;·&nbsp; 2024 – 2025
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## Connect
 
-Open to conversations about data, strategy and collaboration.
+Open to conversations about business analysis, data and digital transformation.
 
 **[saipreethimudrakola.github.io/SaipreethiMudrakola](https://saipreethimudrakola.github.io/SaipreethiMudrakola/)**
 
