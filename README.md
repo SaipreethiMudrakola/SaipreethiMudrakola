@@ -34,7 +34,6 @@ My work sits at the intersection of **business process analysis**, **data-driven
 ## Expertise
 
 | | |
-|---|---|
 | **Business Analysis** | Requirements Elicitation · BRD / FRD · User Stories · Acceptance Criteria · Use Cases · RTM · Gap Analysis · Process Mapping · BPMN · BPR |
 | **Agile & Delivery** | Agile Scrum · Product Owner Support · Backlog Management · Sprint Planning · Release Planning · SDLC · Waterfall |
 | **Testing & UAT** | UAT Planning & Coordination · Test Case Review · Defect Management · Production Validation · Business Sign-off |
