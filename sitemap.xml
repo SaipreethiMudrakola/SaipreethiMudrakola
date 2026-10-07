@@ -1,10 +1,15 @@
-<?xml version="1.1" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://saipreethimudrakola.github.io/SaipreethiMudrakola/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://saipreethimudrakola.github.io/SaipreethiMudrakola/assets/images/headshot.jpeg</image:loc>
+      <image:caption>Sai Preethi Mudrakola, Business Data Analyst and Senior Business Analyst</image:caption>
+      <image:title>Sai Preethi Mudrakola</image:title>
+    </image:image>
   </url>
 </urlset>
-
